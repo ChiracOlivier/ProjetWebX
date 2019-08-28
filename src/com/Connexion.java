@@ -1,7 +1,5 @@
-package com.mycompany;
+package com;
 
-import com.mycompany.ConnexionForm;
-import com.mycompany.Utilisateur;
 import java.io.IOException;
 
 import javax.servlet.ServletException;

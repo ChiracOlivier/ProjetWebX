@@ -1,4 +1,4 @@
-package com.mycompany;
+package com;
 
 import java.util.HashMap;
 import java.util.Map;
