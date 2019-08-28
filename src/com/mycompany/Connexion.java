@@ -1,5 +1,7 @@
-package com.company;
+package com.mycompany;
 
+import com.mycompany.ConnexionForm;
+import com.mycompany.Utilisateur;
 import java.io.IOException;
 
 import javax.servlet.ServletException;
@@ -47,3 +49,4 @@ public class Connexion extends HttpServlet {
     this.getServletContext().getRequestDispatcher( VUE ).forward( request, response );
   }
 }
+
