@@ -18,10 +18,7 @@
     <span class="erreur">${form.erreurs['email']}</span>
     <br />
 
-    <label for="motdepasse">Mot de passe <span class="requis">*</span></label>
-    <input type="password" id="motdepasse" name="motdepasse" value="" size="20" maxlength="20" />
-    <span class="erreur">${form.erreurs['motdepasse']}</span>
-    <br />
+   
 
     <input type="submit" value="Connexion" class="sansLabel" />
     <br />
