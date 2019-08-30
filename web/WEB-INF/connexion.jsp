@@ -23,7 +23,7 @@
     <span class="erreur">${form.erreurs['motdepasse']}</span>
     <br />
 
-   
+      <input type="submit" value="Connexion" class="sansLabel" />
     <br />
 
     <p class="${empty form.erreurs ? 'succes' : 'erreur'}">${form.resultat}</p>
