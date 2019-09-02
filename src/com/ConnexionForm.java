@@ -27,7 +27,7 @@ public final class ConnexionForm {
 
     Utilisateur utilisateur = new Utilisateur();
 
-    /* Validation du champ email. */
+    /* Validation du champ email.      */
     try {
       validationEmail( email );
     } catch ( Exception e ) {
