@@ -7,7 +7,7 @@
   </servlet>
 
   <servlet-mapping>
-   
+    <servlet-name>Connexion</servlet-name>
     <url-pattern>/connexion.jsp</url-pattern>
   </servlet-mapping>
 </web-app>
