@@ -16,9 +16,7 @@ public final class ConnexionForm {
     return resultat;
   }
 
-  public Map<String, String> getErreurs() {
-    return erreurs;
-  }
+  
 
   public Utilisateur connecterUtilisateur( HttpServletRequest request ) {
     /* Récupération des champs du formulaire */
